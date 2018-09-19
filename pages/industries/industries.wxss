@@ -1,0 +1,29 @@
+/* pages/industries/industries.wxss */
+.box-ctn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background:#69c37d;
+    padding: 10px 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.box-body {
+    flex: 1;
+    padding: 0 10px;
+}
+
+.box-title {
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.box-paragraph {
+    color: #fff;
+    text-indent: 2em;
+}

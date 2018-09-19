@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/about/us",
+    "pages/advantage/advantage",
+    "pages/industries/industries",
+    "pages/customers/customers"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F38E00",
+    "navigationBarTitleText": "即沃猎头",
+    "navigationBarTextStyle":"white",
+    "backgroundColor": "f38e00"
+  }
+}

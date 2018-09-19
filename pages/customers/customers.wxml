@@ -1,0 +1,72 @@
+<scroll-view scroll-y="true" class="container bg-main">
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c03.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c04.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c05.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c06.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c07.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c08.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c10.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c15.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c16.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c17.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c18.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c19.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c20.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/c21.png" class="img" mode="aspectFit"></image>
+        </view>
+    </view>
+</scroll-view>

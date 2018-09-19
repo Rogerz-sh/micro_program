@@ -1,0 +1,38 @@
+<scroll-view scroll-y="true" class="container bg-main">
+    <view class="box-ctn">
+        <view class="box-body">
+            <view class="box-title">银行.证券.基金.信托.保险事业部</view>
+            <view class="box-paragraph">银行.证券.基金.信托.保险事业部分为16个细分行业。70%的银行.证券.基金.信托.保险客户都是合作了逾3年以上的长期客户。近50名金融猎头专家，7*24小时服务企业客户，寻访渠道广泛，擅长根据企业的岗位需求定向挖掘匹配人才。 行业细分：国有商业银行、全国性股份制商业银行、农村商业银行、城市商业银行、信用合作社、邮政储蓄、投资银行、券商投行／固定收益部、券商研究所、券商资管部、私募证券投资、保险、公墓基金、私募基金、信托等</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-body">
+            <view class="box-title">IT事业部</view>
+            <view class="box-paragraph">IT事业部分为10个细分行业，由平均5年以上IT行业的专家猎头顾问一对一服务，不存在顾问不熟悉行业、候选人不匹配的风险。行业细分：系统集成商、IT基础架构、设备、平台/系统、应用系统、IT咨询、行业软件开发、IT资源提供商、服务外包服务商等</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-body">
+            <view class="box-title">金融投资.资产管理.融资租赁.新兴金融事业部</view>
+            <view class="box-paragraph">金融投资.资产管理.融资租赁.新兴金融事业部划分为10个细分行业，合作客户超过1000家，即沃多年来持续进行金融投资.资产管理.融资租赁.新兴金融行业深度分析，每个项目都由擅长地产行业的专家猎头团队一对一负责，分工明确，优势明显。 行业细分：PE/VC 、量化投资、期货、融资租赁、资产管理、交易所、第三方财富管理、担保、贷款、财物咨询等</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-body">
+            <view class="box-title">互联网.商务应用事业部</view>
+            <view class="box-paragraph">互联网商务应用事业部部划分为14个细分行业。互联网商务应用事业部的猎头顾问平均行业经验6年以上，积累了丰富的候选人资源和寻猎经验，在洞悉客户用人需求的基础上，为企业推荐匹配度90%以上的人才。行业细分：电子商务、网络教育、支付交易、智能硬件、云计算/大数据、医疗健康、商业场景领域、办公软件、汽车后市场、互联网房地产、搜索/安全/信息推送等</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-body">
+            <view class="box-title">互联网.金融信息服务事业部</view>
+            <view class="box-paragraph">互联网金融信息服务事业部划分为8个细分行业，每个细分行业都由专业的行业猎头顾问专门负责，为企业提供专业的猎头服务。同时近百名专家猎头全国联动，推荐的人选匹配度高，上手、融入快，能平稳实现业务对接，降低企业隐形成本。 行业细分：金融资讯、票据业务、第三方支付、众筹、P2P网贷、大数据金融、互联网金融门户等</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-body">
+            <view class="box-title">互联网.交流娱乐.媒体事业部</view>
+            <view class="box-paragraph">互联网交流娱乐媒体事业部划分为10个细分行业。专门负责该地区互联网.交流娱乐.媒体行业的资深猎头1小时内快速与您对接，确定招聘项目可行性后1-3天内提供第一批人选的综合报告。行业细分：互联网游戏、媒体资讯广告、旅游/酒店/电影、音乐/视频/拍摄、社交/即时通讯、其它生活服务类等</view>
+        </view>
+    </view>
+</scroll-view>

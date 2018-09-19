@@ -1,0 +1,42 @@
+<!--index.wxml-->
+<view class="container bg-main">
+  <view class="nav-box-row">
+    <view class="nav-box-col">
+      <view class="nav-box bg-orange">
+        <navigator class="nav-button" url="/pages/about/us">
+          <text>关于我们</text><br></br><text>ABOUT US</text>
+        </navigator>
+      </view>
+    </view>
+    <view class="nav-box-indent"></view>
+    <view class="nav-box-col">
+      <view class="nav-box bg-blue">
+        <navigator class="nav-button" url="/pages/advantage/advantage">
+          <text>我们的优势</text><br></br><text>ADVANTAGE</text>
+        </navigator>
+      </view>
+    </view>
+  </view>
+  <view class="nav-box-indent"></view>
+  <view class="nav-box-row">
+    <view class="nav-box-col">
+      <view class="nav-box bg-green">
+        <navigator class="nav-button" url="/pages/industries/industries">
+          <text>行业细分</text><br></br><text>INDUSTRIES</text>
+        </navigator>
+      </view>
+    </view>
+    <view class="nav-box-indent"></view>
+    <view class="nav-box-col">
+      <view class="nav-box bg-purple">
+        <navigator class="nav-button" url="/pages/customers/customers">
+          <text>合作客户</text><br></br><text>CUSTOMERS</text>
+        </navigator>
+      </view>
+    </view>
+  </view>
+  <view class="nav-box-indent"></view>
+  <view class="flex row flex-2 center logo">
+    <image mode="aspectFit" src="http://www.giewoo.com/new-page/image/logo_g.png"></image>
+  </view>
+</view>

@@ -1,0 +1,56 @@
+<scroll-view scroll-y="true" class="container bg-main">
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/icon_01.png" mode="aspectFill" class="img"></image>
+        </view>
+        <view class="box-body">
+            <view class="box-title">高效推荐</view>
+            <view class="box-content">平均每推荐3.3个候选人就能得到一个offer的命中率;平均15天完成一个项目。</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/icon_02.png" mode="aspectFill" class="img"></image>
+        </view>
+        <view class="box-body">
+            <view class="box-title">高性价比</view>
+            <view class="box-content">自主研发的woo招聘系统在猎头行业内属于较领先的地位，降低了猎头费用，给客户提供了最优的服务保障。</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/icon_03.png" mode="aspectFill" class="img"></image>
+        </view>
+        <view class="box-body">
+            <view class="box-title">量身定制</view>
+            <view class="box-content">针对企业文化、组织结构、招聘需求等各个方面做深入全面的分析，为企业量身定制个性化、高品质的招聘方案。</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/icon_04.png" mode="aspectFill" class="img"></image>
+        </view>
+        <view class="box-body">
+            <view class="box-title">专家级顾问</view>
+            <view class="box-content">猎头顾问大多来自跨国公司、上市公司和大型民营企业,平均从业经验6年以上,具有广泛的人脉资源。</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/icon_05.png" mode="aspectFill" class="img"></image>
+        </view>
+        <view class="box-body">
+            <view class="box-title">专注专业</view>
+            <view class="box-content">专注服务金融和it互联网行业，囊括百万人才，每一细分领域都由专业猎头顾问一对一负责。</view>
+        </view>
+    </view>
+    <view class="box-ctn">
+        <view class="box-img">
+            <image src="/images/icon_06.png" mode="aspectFill" class="img"></image>
+        </view>
+        <view class="box-body">
+            <view class="box-title">业务覆盖广</view>
+            <view class="box-content">总部位于上海，以华东为中心，向全国覆盖猎头业务，业务涉及遍布全国50多个城市。</view>
+        </view>
+    </view>
+</scroll-view>
